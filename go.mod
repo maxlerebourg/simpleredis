@@ -1,3 +1,3 @@
-module github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin
+module github.com/maxlerebourg/simpleredis
 
 go 1.19

@@ -2,6 +2,7 @@
 Minimal go redis with only `get`, `set` and `delete` operation.  
 With **NO** extern dependencies.
 
+## Example
 ```go
 import simpleredis "github.com/maxlerebourg/simpleredis"
 
@@ -23,3 +24,6 @@ if err != nil {
   ...
 }
 ```
+
+## Author
+Max Lerebourg @ [Primadviz.com](https://primadviz.com)

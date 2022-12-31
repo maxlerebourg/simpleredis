@@ -1,6 +1,6 @@
 # simpleredis
 Minimal go redis with only `get`, `set` and `delete` operation.  
-With *NO* extern dependencies.
+With **NO** extern dependencies.
 
 ```go
 import simpleredis "github.com/maxlerebourg/simpleredis"
